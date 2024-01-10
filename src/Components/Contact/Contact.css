@@ -1,0 +1,33 @@
+.seperate{
+    width: 10%;
+    border: 0.2vmax solid darkmagenta;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+.form{
+    border-radius: 8px;
+    border: 1px solid white;
+    width: 100vh;
+    height: 50vw;
+    padding-top: 5vmax;
+    padding-left: 3vmax;
+    margin-bottom: 15vh;
+}
+.Contact{
+    margin-top: 50vh;
+}
+.group{
+
+    margin-bottom: 5vmax;
+}
+
+/* .box{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+
+} */
+.container{
+    padding-top: 5vmax;
+}
+.form-control{
+    background-color: #F0F0F0;
+}

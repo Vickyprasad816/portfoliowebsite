@@ -1,0 +1,39 @@
+.About {
+    background-image: url('../../assests/bgimg.jpg');
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.content {
+    padding-top: 10vw;
+}
+
+.h3 {
+    font-size: 3vmax;
+    font-weight: 700;
+}
+
+.p1 {
+    font-size: 1.5vmax;
+    font-weight: 400;
+}
+
+.seperator {
+    width: 10%;
+    border: 0.2vmax solid darkmagenta;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+.skill{
+    padding: 0.5vmax;
+    width: 6vmax;
+    background-color: #E7E7E7;
+    border: none;
+    border-radius: 8px;
+    color: #666666;
+}
+.get{
+    font-size: 1.2vmax;
+}

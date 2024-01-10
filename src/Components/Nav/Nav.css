@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
+   
+}
+Nav{
+    z-index: 1000;
+    box-shadow: 0 32px 32px rgba(0, 0, 0, 0.1);
+}
+.navbar-brand {
+    max-width: 100%;
+    width: 3.5dvw;
+    width: 3.5vw;
+    height: auto;
+}
+
+.img {
+    font-size: 1.5vmax;
+    font-weight: 600;
+    margin-left: 5vw;
+}
+
+.img:hover {
+    cursor: pointer;
+    color: #7843E9;
+}
+body{
+    padding-top: 80px;
+}
+.nav-link {
+    cursor: pointer;
+    color: black;
+}
+.nav-link:hover{
+    color: #7843E9;
+}
+
+.Nav {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+}
